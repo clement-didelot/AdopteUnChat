@@ -1,0 +1,56 @@
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/card-white.css");
+@import url("components/button-black.css");
+@import url("components/card-animal.css");
+@import url("components/header.css");
+@import url("components/main.css");
+
+
+
+
+ body {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+
+
+section {
+  margin-bottom: 40px;
+}
+
+
+
+@media (max-width: 760px) {
+  .container {
+    width: 600px;
+  }
+}
+
+@media (max-width: 500px) {
+
+  .container {
+    width: 400px;
+  }
+}

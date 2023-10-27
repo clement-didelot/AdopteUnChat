@@ -1,0 +1,23 @@
+.card-white {
+ 	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+ 	border-radius: 9px;
+ 	text-align: center;
+ 	background-color: white;
+ 	padding: 14px;
+ 	margin: 15px auto;
+ }
+
+
+a{
+
+ color: red;
+	text-decoration: none;
+	transition: color 5,0s ease;
+}
+ 
+ a:hover {
+ 	
+ 	color: #FFC2C2;
+ 	text-decoration: none;
+ }
+

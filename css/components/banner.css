@@ -1,0 +1,22 @@
+.banner {
+
+	background-image: url('../../images/background3.jpg'); 
+	background-size: cover;
+	background-position: center;
+	
+	border-radius: 4px;
+	
+	}
+.banner h1 {
+	font-size: 58px;
+	padding: 150px ;
+	font-family: Agbalumo;
+}
+
+.box-beige {
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+	text-align: center;
+	background-color:#BEB5B1;
+	padding: 9px 15px;
+	border-radius: 8px;
+	margin: auto;
